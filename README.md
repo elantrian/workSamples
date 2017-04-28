@@ -1,6 +1,6 @@
 # workSamples
 
-## Repository for hosting work samples for web/social media use
+## Repository hosting work samples for web/social media use
 
 * [ScientificPresentations/](https://github.com/elantrian/workSamples/tree/master/ScientificPresentations)
   * Gray Lab Group Meeting Presentation
